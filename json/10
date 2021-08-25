@@ -1,56 +1,51 @@
 {
-	"description": "[Milady Maker](https://www.miladymaker.net) is a collection of 10,000 generative pfpNFT's in a neochibi aesthetic inspired by Tokyo street style tribes.",
-	"external_url": "https://miladymaker.net",
-	"image": "https://raw.githubusercontent.com/remiliacorp/miladycollection/main/11.png",
-	"name": "Milady 11",
+	"description": "Milady Maker is a collection of 10,000 generative pfpNFT's in a neochibi aesthetic inspired by Tokyo street style tribes.",
+	"image": "https://raw.githubusercontent.com/remiliacorp/miladycollection/main/10.png",
+	"name": "Milady 10",
 	"attributes": [
 		{
 			"trait_type": "Background",
-			"value": "mountain",
+			"value": "sunset"
 		},
 		{
 			"trait_type": "Race",
-			"value": "clay",
+			"value": "clay"
 		},
 		{
 			"trait_type": "Eyes",
-			"value": "heart eyes",
+			"value": "crying"
 		},
 		{
 			"trait_type": "Eye Color",
-			"value": "blue",
+			"value": "blue"
 		},
 		{
 			"trait_type": "Shirt",
-			"value": "red puffer",
+			"value": "red puffer"
 		},
 		{
 			"trait_type": "Hair",
-			"value": "short pink",
+			"value": "og black"
 		},
 		{
 			"trait_type": "Hat",
-			"value": "trucker gothic milady",
-		},
-		{
-			"trait_type": "Neck",
-			"value": "castle neck tattoo",
+			"value": "maid hat"
 		},
 		{
 			"trait_type": "Drip Score",
-			"value": "38",
+			"value": "17"
 		},
 		{
 			"trait_type": "Core",
-			"value": "hypebeast",
+			"value": "lolita-hypebeast"
 		},
 		{
 			"trait_type": "Drip Grade",
-			"value": "a-drip",
+			"value": "d-drip"
 		},
 		{
 			"trait_type": "Number",
-			"value": "11",
+			"value": "10"
 		}
 	]
 }
